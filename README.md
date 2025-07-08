@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 <p align="justify">
-  I'm 19 years old and taking my first steps in the exciting field of programming. Currently, I'm working as a <b>Programming Intern</b> at <a href="LINK-TO-METROPOLITAN-COLLEGE" target="_blank">@Faculdade Metropolitana</a>, where I have the opportunity to apply and expand my knowledge.
+  I'm 19 years old and taking my first steps in the exciting field of programming. Currently, I'm working as a <b>Programming Intern</b> at Faculdade Metropolitana, where I have the opportunity to apply and expand my knowledge.
 </p>
 
 - 🌱 I'm always looking to <b>evolve and improve</b> as a developer, both technically and professionally.
