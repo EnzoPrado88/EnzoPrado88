@@ -1,34 +1,34 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="400"/>
 </div>
 
-<h1 align="center">Olá! Eu sou o Enzo Prado Ignacio 👋</h1>
-<h3 align="center">Estudante de Ciência da Computação e desenvolvedor em evolução, focado em transformar ideias em soluções web.</h3>
+<h1 align="center">Hi there! I'm Enzo Prado Ignacio 👋</h1>
+<h3 align="center">Computer Science student and evolving developer focused on turning ideas into web solutions.</h3>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EnzoPrado88&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Contador de visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=EnzoPrado88&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
 <p align="justify">
-  Sou estudante do <b>5º semestre de Ciência da Computação</b> na <b>Universidade Barão de Mauá</b>, em Ribeirão Preto/SP. Estou construindo minha carreira na área de tecnologia com foco em desenvolvimento web, aprendizado contínuo e criação de soluções práticas que conectam lógica, experiência do usuário e impacto real.
+  I'm a <b>Computer Science undergraduate student</b> currently in my <b>5th semester</b> at <b>Universidade Barão de Mauá</b>, in Ribeirão Preto, São Paulo, Brazil. I'm building my career in technology with a strong focus on web development, continuous learning, and creating practical solutions that connect logic, user experience, and real-world impact.
 </p>
 
-- 🎓 Graduando em <b>Ciência da Computação</b>.
-- 💼 Experiência profissional em tecnologia, com atuação vinculada à <b>Mundiale</b>.
-- 🚀 Foco em <b>desenvolvimento web</b>, principalmente nos ecossistemas <b>PHP</b>, <b>JavaScript</b> e <b>TypeScript</b>.
-- ☕ Estudando e praticando <b>Java</b>, com projetos voltados à fixação de conceitos de <b>Programação Orientada a Objetos</b>.
-- ☁️ Em constante evolução, explorando também fundamentos de <b>AWS</b> e computação em nuvem.
-- 🗄️ Conhecimento em modelagem e manipulação de bancos de dados <b>SQL</b>.
+- 🎓 Undergraduate student in <b>Computer Science</b>.
+- 💼 Professional experience in technology, with work connected to <b>Mundiale</b>.
+- 🚀 Focused on <b>web development</b>, especially within the <b>PHP</b>, <b>JavaScript</b>, and <b>TypeScript</b> ecosystems.
+- ☕ Studying and practicing <b>Java</b>, with projects aimed at strengthening <b>Object-Oriented Programming</b> concepts.
+- ☁️ Continuously learning and exploring the fundamentals of <b>AWS</b> and cloud computing.
+- 🗄️ Knowledge of <b>SQL</b> database modeling and manipulation.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -45,15 +45,15 @@
 
 ---
 
-### 📌 Em desenvolvimento
+### 📌 Currently Working On
 
-- Construção de projetos práticos para consolidar conceitos de backend, frontend e bancos de dados.
-- Aprimoramento em boas práticas de código, versionamento com Git/GitHub e organização de projetos.
-- Estudos contínuos em Java, Programação Orientada a Objetos, cloud e desenvolvimento web moderno.
+- Building practical projects to strengthen backend, frontend, and database skills.
+- Improving code quality, project organization, and version control practices with Git and GitHub.
+- Continuously studying Java, Object-Oriented Programming, cloud computing, and modern web development.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/EnzoPrado88">
@@ -64,7 +64,7 @@
 
 ---
 
-### 📫 Entre em contato
+### 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:enzop.ignacio@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
